@@ -1,0 +1,8 @@
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\bin\Debug\source.exe.config
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\bin\Debug\source.exe
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\bin\Debug\source.pdb
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.exe
+C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.pdb
