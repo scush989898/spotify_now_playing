@@ -10,7 +10,9 @@ namespace source
 {
     public class FileIO
     {
-        static string path = "C:\\Users\\anton\\Desktop\\Projetos\\music_playing.txt";
+        //static string path = "C:\\Users\\anton\\Desktop\\Projetos\\music_playing.txt";
+        static string path = "C:\\Users\\marco\\Desktop\\aplksk,as\\music_playing.txt";
+
         public static void CheckFile()
         {
             if (!File.Exists(path))
@@ -28,14 +30,8 @@ namespace source
             using (StreamWriter sw = File.CreateText(path))
             {
 
-                Process[] localByName = Process.GetProcessesByName("spotify");
-                foreach (Process process in localByName)
-                {
-                    if (!String.IsNullOrEmpty(process.MainWindowTitle))
-                    {
-                        sw.WriteLine(process.MainWindowTitle);
-                    }
-                }
+                string SongName = GetSong.Get();
+                sw.WriteLine(SongName);
             }
         }
 
@@ -44,14 +40,8 @@ namespace source
             using (StreamWriter sw = File.CreateText(path))
             {
 
-                Process[] localByName = Process.GetProcessesByName("spotify");
-                foreach (Process process in localByName)
-                {
-                    if (!String.IsNullOrEmpty(process.MainWindowTitle))
-                    {
-                        sw.WriteLine(process.MainWindowTitle);
-                    }
-                }
+                string SongName = GetSong.Get();
+                sw.WriteLine(SongName);
             }
         }
     }
