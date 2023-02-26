@@ -10,6 +10,7 @@ namespace source
     {
         public static void Main(string[] args)
         {
+            FileIO.CheckFile();
         }
     }
 }

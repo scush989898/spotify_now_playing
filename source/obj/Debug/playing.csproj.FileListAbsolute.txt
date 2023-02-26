@@ -6,3 +6,11 @@ C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\ob
 C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\playing.csproj.CoreCompileInputs.cache
 C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.exe
 C:\Users\marco\Desktop\projeto_spotify_now_playing\spotify_now_playing\source\obj\Debug\source.pdb
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\bin\Debug\source.exe.config
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\bin\Debug\source.exe
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\bin\Debug\source.pdb
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\obj\Debug\playing.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\obj\Debug\playing.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\obj\Debug\playing.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\obj\Debug\source.exe
+C:\Users\anton\Desktop\Projetos\spotify_now_playing\source\obj\Debug\source.pdb
