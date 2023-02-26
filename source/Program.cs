@@ -8,9 +8,9 @@ namespace source
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
-            FileIO.CheckFile();
+            Schedule.StartTimer();
         }
     }
 }

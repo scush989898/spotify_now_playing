@@ -10,8 +10,7 @@ namespace source
 {
     public class FileIO
     {
-        //static string path = "C:\\Users\\anton\\Desktop\\Projetos\\music_playing.txt";
-        static string path = "C:\\Users\\marco\\Desktop\\aplksk,as\\music_playing.txt";
+        private static string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"infoSong","music_playing.txt");
 
         public static void CheckFile()
         {
@@ -40,7 +39,7 @@ namespace source
             using (StreamWriter sw = File.CreateText(path))
             {
 
-                string SongName = GetSong.Get();
+                string SongName = GetSong.Get()+ ".  ";
                 sw.WriteLine(SongName);
             }
         }
